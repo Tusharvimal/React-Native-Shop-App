@@ -7,7 +7,7 @@ This is an e-commerce app.
 
 It has authentication and database functionality which is handled using firebase.
 
-User can see the product, add the product to the cart, select the quantity of the product and then the checkout the products.
+User can see the product, add the product to the cart, select the quantity of the product and then checkout the products.
 
 User can make there own product if they are logged in.
 
